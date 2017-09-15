@@ -57,7 +57,7 @@ include("checkImage.php");
                 <div id="team" class="owl-carousel owl-theme row ">
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="out/19578.jpg" alt="..." class="img-circle team-img" id="image_preview">
+                            <img src="out/10451.jpg" alt="..." class="img-circle team-img" id="image_preview">
                             <div class="caption">
                                 <h3>Your Watermark</h3>
                             </div>
